@@ -1,4 +1,0 @@
-104,Krishnan, Saranya,AIA-ModernDataEngineering
-105,R, Yuvashree,AIA-ModernBI
-106,Singh, Robin,AIA-Data
-107,Pradhan, Rajeswari,AIA-Data

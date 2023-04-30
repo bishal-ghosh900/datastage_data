@@ -1,3 +1,0 @@
-108,Maruri, Mohana Kalyana Narasimha Reddy,AIA-AIML
-109,Roy, Anjali,AIA-ModernDataEngineering
-110,Sai Eswar, Pullabhotla,AIA-Data

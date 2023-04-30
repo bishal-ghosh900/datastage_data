@@ -1,0 +1,5 @@
+EMP_ID,EMP_NAME,EMP_DEPT
+100,Pal, Susriti,AIA-Data
+101,Madan, Gautam,AIA-Data
+102,Dudhmande, Aditi,AIA-Data
+103,Ghosh, Bishal,AIA-ModernDataEngineering
